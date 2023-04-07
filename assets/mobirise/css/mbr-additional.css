@@ -3,11 +3,11 @@ body {
 }
 .display-1 {
   font-family: 'DM Sans', sans-serif;
-  font-size: 4.6rem;
+  font-size: 3.5rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 7.36rem;
+  font-size: 5.6rem;
 }
 .display-2 {
   font-family: 'DM Sans', sans-serif;
@@ -48,14 +48,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.68rem;
+    font-size: 2.8rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.22rem;
-    font-size: calc( 2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.45rem;
+    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.76rem;
@@ -1139,9 +1139,9 @@ a {
   }
 }
 .cid-tc75JoHfoA {
-  padding-top: 10rem;
+  padding-top: 7rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/abbe-sublett-nxzdmuqhn4o-unsplash-2000x1330.jpg");
+  background-image: url("../../../assets/images/los-angeles-downtown-buildings-night-2000x1000.jpg");
 }
 .cid-tc75JoHfoA .mbr-img-wrap {
   height: 100%;
@@ -1624,6 +1624,18 @@ a {
 .cid-tADKw53RZd img {
   width: 100%;
 }
+.cid-tAJjjiDbQe {
+  padding-top: 105px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/modern-beautiful-woman-talking-mobile-phone-looking-aside-logo-making-call-standing-agains-2000x968.jpg");
+}
+.cid-tAJjjiDbQe .mbr-text,
+.cid-tAJjjiDbQe .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-tAJjjiDbQe H1 {
+  color: #ffffff;
+}
 .cid-rOMrWq7dpT {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -1645,7 +1657,7 @@ a {
 .cid-t7FDz5qDgC {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/abbe-sublett-nxzdmuqhn4o-unsplash-2000x1330.jpg");
+  background-image: url("../../../assets/images/landmarks-modern-city-2000x1335.jpg");
 }
 .cid-t7FDz5qDgC .link-wrap {
   width: 100%;
@@ -1691,7 +1703,7 @@ a {
   color: #ffffff;
 }
 .cid-tADM7Trbe8 {
-  padding-top: 5rem;
+  padding-top: 6rem;
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
@@ -1729,7 +1741,7 @@ a {
 }
 .cid-tADMCPepD5 {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-tADMCPepD5 .link-wrap {
@@ -1824,6 +1836,18 @@ a {
 .cid-tADNK2z1Ay .card-title,
 .cid-tADNK2z1Ay .card-box {
   color: #232323;
+}
+.cid-tAJjolPbk4 {
+  padding-top: 105px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/modern-beautiful-woman-talking-mobile-phone-looking-aside-logo-making-call-standing-agains-2000x968.jpg");
+}
+.cid-tAJjolPbk4 .mbr-text,
+.cid-tAJjolPbk4 .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-tAJjolPbk4 H1 {
+  color: #ffffff;
 }
 .cid-tADLy5zUuM {
   padding-top: 30px;
@@ -2208,7 +2232,7 @@ a {
 .cid-tAHmaCZw0U {
   padding-top: 10rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/abbe-sublett-nxzdmuqhn4o-unsplash-2000x1330.jpg");
+  background-image: url("../../../assets/images/closeup-aerial-view-woman-sitting-cafe-using-mobile-phone-2000x1335.jpg");
 }
 .cid-tAHmaCZw0U .mbr-img-wrap {
   height: 100%;
@@ -3794,7 +3818,7 @@ a {
 .cid-tAJ8ulfql9 {
   padding-top: 105px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/background1-4.jpg");
+  background-image: url("../../../assets/images/modern-beautiful-woman-talking-mobile-phone-looking-aside-logo-making-call-standing-agains-2000x968.jpg");
 }
 .cid-tAJ8ulfql9 .mbr-text,
 .cid-tAJ8ulfql9 .mbr-section-btn {
